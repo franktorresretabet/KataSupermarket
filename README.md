@@ -55,11 +55,15 @@ Política asignada al producto (o referencia a ella)
 
 - Implementaciones:
 
->> UnitPricePolicy
->> BulkPricePolicy
->> WeightPricePolicy
->> MultiBuyPolicy
->> PercentageDiscountPolicy
+    > UnitPricePolicy
+
+    > BulkPricePolicy
+
+    > WeightPricePolicy
+
+    > MultiBuyPolicy
+
+    > PercentageDiscountPolicy
 
 ### PricingResult
 Subtotal de línea
