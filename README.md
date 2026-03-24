@@ -54,13 +54,14 @@ Política asignada al producto (o referencia a ella)
 - Contrato común: calcula precio de una línea y devuelve detalle.
 
 - Implementaciones:
-UnitPricePolicy
 
-BulkPricePolicy
+> UnitPricePolicy
 
-WeightPricePolicy
+> BulkPricePolicy
 
-MultiBuyPolicy
+> WeightPricePolicy
+
+> MultiBuyPolicy
 
 PercentageDiscountPolicy
 
